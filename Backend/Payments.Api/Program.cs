@@ -1,6 +1,7 @@
 ﻿using Payments.Application;
 using Payments.Infrastructure;
 
+// Bootstrap the application
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
