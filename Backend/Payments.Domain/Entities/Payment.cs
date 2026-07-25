@@ -7,7 +7,9 @@ public sealed class Payment
         "USD",
         "EUR",
         "INR",
-        "GBP"
+        "GBP",
+        "JPY",
+        "AUD"
     };
 
     public Payment(
